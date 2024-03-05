@@ -1,8 +1,9 @@
 {
   "name": "@meakle/icon-vue2",
   "version": "0.1.0",
-  "main": "lib/lib.cjs",
-  "module": "lib/lib.js",
+  "main": "lib/icons.cjs",
+  "module": "lib/icons.js",
+  "types": "lib/icons.d.ts",
   "files": [
     "lib",
     "*.d.ts"
