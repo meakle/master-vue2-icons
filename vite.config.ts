@@ -13,8 +13,8 @@ export default defineConfig({
     outDir: 'lib',
     lib: {
       entry: resolve(__dirname, './index.ts'),
-      name: 'lib',
-      fileName: 'lib',
+      name: 'icons',
+      fileName: 'icons',
       formats: ['cjs', 'es', 'umd'],
     },
     rollupOptions: {
